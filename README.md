@@ -1,3 +1,5 @@
+This is the repository for noterly. Originally created by Adam Abrams-Flohr, Talbert Herndon, Nick Kohout, Anmoldeep Sandhu, and Jiaqi Zhou for CST-461
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
